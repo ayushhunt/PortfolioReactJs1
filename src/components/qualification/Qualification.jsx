@@ -93,6 +93,7 @@ const Qualification = () => {
                         <div>
                             <h3 className="qualification__title">Schiff's Base</h3>
                             <span className="qualification__subtitle">Synthesis of Schiff bases and their eco-friendly applications in green chemistry for sustainable development.</span>
+                            <a href='https://drive.google.com/file/d/15P3r_wWrsv3ieBgM4PdMaXZuy738vxbV/view?usp=sharing'>check out</a>
                             <div className="qualification__calender">
                                 <i className="uil uil-calendar-alt"></i> 2023
                             </div>
